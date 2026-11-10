@@ -1,0 +1,20 @@
+ATLAS HOLOGRÁFICO PLANETÁRIO
+
+Como visualizar:
+1. Extraia o arquivo ZIP para uma pasta.
+2. Abra o arquivo index.html em um navegador atualizado.
+
+O site funciona localmente, sem servidor, dependências ou conexão com a internet.
+
+Recursos:
+- Busca por cidade ou país e filtros por região.
+- Mapas ampliados em uma janela de visualização.
+- Use as setas do teclado ou os controles na tela para navegar entre os mapas.
+- Documento complementar em PDF, com opções para abrir ou baixar.
+- Layout adaptável para telas pequenas.
+
+As imagens estão na pasta assets. Para acrescentar uma cidade, inclua a imagem
+nessa pasta e duplique/adapte um bloco <article class="card"> no index.html.
+
+O documento original está em documentos/atlas-holografico-planetario.pdf.
+Ele tem 14 páginas e cerca de 51 MB; abrir ou baixar pode levar alguns instantes.
